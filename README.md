@@ -1,3 +1,4 @@
+<img src ="https://cdn.sketch.com/assets/blog/using-github-actions-header@2x.png">
 <h1 align="center">Hi 👋, I'm Akalanka Bandara</h1>
 <h3 align="center">I'm Student at IJSE from Sri Lanka</h3>
 
